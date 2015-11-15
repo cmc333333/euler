@@ -1,0 +1,7 @@
+[package]
+name = "euler_0021"
+version = "0.1.0"
+authors = ["CM Lubinski <cm.lubinski@gmail.com>"]
+
+[dependencies]
+factors = { path = "../factors" }

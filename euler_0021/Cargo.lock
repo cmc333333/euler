@@ -1,0 +1,11 @@
+[root]
+name = "euler_0021"
+version = "0.1.0"
+dependencies = [
+ "factors 0.1.0",
+]
+
+[[package]]
+name = "factors"
+version = "0.1.0"
+
